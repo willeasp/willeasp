@@ -1,7 +1,9 @@
+<!-- 
 - 👋 Hi, I’m @willeasp
 - 👀 I’m interested in Linux, distributed systems and full stack development.
 - 🌱 I’m currently learning high performance computing
-<!-- - 💞️ I’m looking to collaborate on
+
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me -->
 
 <!---
